@@ -1,0 +1,71 @@
+#title {
+	text-align: center;
+	color: white;
+	border-style: solid;
+	border-color: grey;
+	background-color: rgb(207,133,75);
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+#menuTitle {
+	text-align: center;
+	color: white;
+	border-style: solid;
+	border-color: grey;
+	background-color: rgb(105,146,184);
+	margin-top: 40px;
+}
+
+#availableBurgers {
+	text-align: center;
+	color: purple;
+	background-color: rgb(226,207,225);
+	border-style: solid;
+	border-color: grey;
+	border-top-width: 0px;
+
+}
+
+#eatenTitle {
+	border-style: solid;
+	border-color: grey;
+	text-align: center;
+	color: white;
+	background-color: rgb(207,133,75);
+	margin-top: 40px;
+}
+
+#eatenBurgers {
+	text-align: center;
+	color: brown;
+	background-color: rgb(226,207,225);
+}
+
+#buildYourOwnTitle {
+	text-align: center;
+	color: white;
+	border-style: solid;
+	border-color: grey;
+	background-color: rgb(105,146,184);
+	margin-top: 40px;	
+}
+
+#inputField {
+
+	border-style: solid;
+	border-color: grey;
+	border-top-width: 0px;
+	background-color: rgb(226,207,225);
+	padding: 15px;
+}
+
+
+#name {
+	padding-bottom: 30px;
+	width: 100%;
+}
+
+.addABurger {
+	width: 100%;
+}
